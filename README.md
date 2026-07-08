@@ -1,4 +1,4 @@
-# V-Ray Blend Material Examples (3ds Max)
+# V-Ray Blend Material Example (3ds Max)
 
 A **V-Ray Blend Material** example for **Autodesk 3ds Max**.
 
@@ -11,8 +11,6 @@ This scene was originally created in **2013** to demonstrate how **VRayBlendMtl*
 ![Preview 1](vrayblendmtl_01.jpg)
 
 ![Preview 2](vrayblendmtl_mat.jpg)
-
-![Preview 3](vrayblendmtl_old.jpg)
 
 ---
 
